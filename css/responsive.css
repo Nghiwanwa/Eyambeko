@@ -44,7 +44,7 @@
 		display: block;
 		width: 25px;
 		height: 3px;
-		background: #fab915;
+		background: #079902;
 		margin: auto;
 		margin-bottom: 4px;
 		transition: all 400ms linear;
@@ -91,7 +91,7 @@
 	}
 	.banner_area .position {
 		position: relative;
-		background: #04091e;
+		background:  #441414;
 		bottom: 0px;
 	}
 	.banner_area {
