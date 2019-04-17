@@ -337,12 +337,16 @@ button:focus {
 
 .navbar .menu_nav .nav-item .nav-link:after {
   display: none;
+  
 }
 
 .navbar .menu_nav .nav-item:hover .nav-link, .navbar .menu_nav .nav-item.active .nav-link {
   color: rgba(9, 128, 25, 0.993);
   font-weight: 100px;
   font-size: 16px;
+  border-radius: 50px;
+  margin-top: 4px;
+
 }
 
 .navbar .menu_nav .nav-item.submenu {
@@ -356,7 +360,7 @@ button:focus {
   -webkit-box-shadow: none;
   box-shadow: none;
   margin: 0px;
-  background: transparent;
+ 
 }
 
 @media (min-width: 992px) {
@@ -3590,11 +3594,10 @@ h1, h2, h3, h4, h5, h6 {
 .footer-bottom {
   padding-top: 46px;
 }
-
 .footer-bottom .footer-text a {
   color:  rgb(17, 189, 25);
 }
-rgb(224, 211, 211);
+
 .footer-bottom .footer-social {
   text-align: right;
 }
