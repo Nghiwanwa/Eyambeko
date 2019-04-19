@@ -611,14 +611,14 @@ button:focus {
   font-size: 13px;
   line-height: 40px;
   height: 40px;
-  color: #777;
+  color: rgb(36, 33, 33);
 }
 
 .book_tabel_item .nice-select:after {
   content: "\e874";
   font-family: 'Linearicons-Free';
   font-size: 13px;
-  color: #777777;
+  color: #1f1c1c;
   border: 0px;
   top: 0;
   margin-top: 0px;
